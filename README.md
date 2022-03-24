@@ -1,4 +1,4 @@
-# Data Access Architecture Speed Test
+# Data Access Architectures Speed Test
 Connected Architecture, Disconnected Artchitecture, Entit Framework Architecture
 
 A speed test Windows Form Application was made between data access architectures.
