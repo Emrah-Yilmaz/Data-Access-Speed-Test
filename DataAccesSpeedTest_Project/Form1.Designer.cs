@@ -75,6 +75,7 @@
             // 
             // listBoxConnected
             // 
+            this.listBoxConnected.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBoxConnected.FormattingEnabled = true;
             this.listBoxConnected.Location = new System.Drawing.Point(8, 70);
             this.listBoxConnected.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
@@ -102,6 +103,7 @@
             // 
             // listBoxDisconnected
             // 
+            this.listBoxDisconnected.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBoxDisconnected.FormattingEnabled = true;
             this.listBoxDisconnected.Location = new System.Drawing.Point(335, 70);
             this.listBoxDisconnected.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
@@ -139,6 +141,7 @@
             // 
             // listBoxEntityFramework
             // 
+            this.listBoxEntityFramework.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBoxEntityFramework.FormattingEnabled = true;
             this.listBoxEntityFramework.Location = new System.Drawing.Point(654, 70);
             this.listBoxEntityFramework.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
